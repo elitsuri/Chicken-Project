@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SpaceShip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chickens.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrownObjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Eggs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedSprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Upgrade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="colission.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileNotOpenEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SpaceShip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chickens.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrownObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="colission.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packpack.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Ionblaster.ogx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="layEgg.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="eggOnGround.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="giftsound.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Powerup.ogx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="menuSound.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gameover.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="playerhit.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bossEggLay.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BossDie.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BossHit.oga">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="chickenSpriteSheet.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="space.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="fire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="fireSmall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="boom.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="spaceBalck.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eggspritesheet.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Fork1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Fork2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="boss.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="upgrade.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gift.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="menu.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="menuwithlogonobuttons.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="menuwithbuttons.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shipExplosion.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gameover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\Untitled.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="shoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="packpack.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Future TimeSplitters.otf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="help.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

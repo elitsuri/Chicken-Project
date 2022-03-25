@@ -1,0 +1,9 @@
+Chicken Invaders is
+a long running series of shoot-em-up games based on the old
+arcade classic Space Invaders where you shoot chickens,
+destroy their evil plans and save Earth (and humanity too).
+The core mechanics of the games are very simple:
+you clear waves of chickens and other enemies,
+avoid eggs and other projectiles, collect power -
+ups to make your weapon stronger
+That's all you need to know!
